@@ -16,6 +16,10 @@
 
 This project aims to analyze Road Accident Data. It provides insights into the factors causing the high rate of road accident casualties and how to regulate them to ensure the safety of road users.
 
+![Dashboard](dashboard.png)
+
+![dashboard](https://github.com/user-attachments/assets/18170c0a-df42-436e-a556-ccf5898fa5ea)
+
 ### Data Sources
 
 Road Accident Data; The primary dataset used for this analysis is the “road_accident_data.csv” file, containing detailed information about road accident rates and the total casualties. 
@@ -40,6 +44,10 @@ A Pivot table was used in analyzing the data to answer the following key questio
 4. Current year vs Previous year Casualties Monthly Trend.
 5. Total Casualties by Road Type and Road Surface.
 6. Relationship between Casualties by Area/Location and Day/Night.
+
+![Analysis](analysis.png)
+
+![analysis](https://github.com/user-attachments/assets/743fc676-fc84-44a1-9fbc-a615365df5c2)
 
 ### Results and Findings
 
